@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "EF21DADE-139D-4640-94CA-262A72A54CCB.jpg"
+  avatar           : "profile.png"
   name             : "Junyan Yu (俞俊言)"
   pronouns         : # example: "she/her"  
   bio              : "B.A. in Chinese Language & Literature, minor in Linguistics"
