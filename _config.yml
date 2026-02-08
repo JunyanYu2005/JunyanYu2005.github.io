@@ -51,14 +51,14 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Junyan-Yu-2005"
+  github           : "Junyan-Yu-2005"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : "https://www.facebook.com/profile.php?id=61552554689636"
+  facebook         : "profile.php?id=61552554689636"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/junyan-yu-8b300a307/"
+  linkedin         : "junyan-yu-8b300a307"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
