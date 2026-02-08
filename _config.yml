@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Junyan Yu's Personal Website"
 title_separator          : "-"
 name                     : &name "Junyan Yu"
@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "B.A. in Chinese Language & Literature, minor in Linguistics"
   location         : "Hong Kong SAR"
-  employer         : "Chinese University of Hong Kong"
-  uri              : "https://junyan-yu-2005.github.io/"
-  email            : "junyanyu.2005@gmail.com" 
+  employer         : "The Chinese University of Hong Kong"
+  uri              : # URL
+  email            : "junyanyu@link.cuhk.edu.hk" 
 
   # Academic websites
   academia         : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0000-0959-8828"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/junyan-yu-8b300a307"
+  linkedin         : "https://www.linkedin.com/in/junyan-yu-8b300a307/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
