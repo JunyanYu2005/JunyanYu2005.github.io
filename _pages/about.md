@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello. I am Junyan Yu, currently an senior undergraduate student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). I major in [Chinese Language and Literature](https://www.chi.cuhk.edu.hk/en/) and minor in [Linguistics](https://ling.cuhk.edu.hk/).
+Hello. I am Junyan Yu, currently a senior undergraduate student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). I major in [Chinese Language and Literature](https://www.chi.cuhk.edu.hk/en/) and minor in [Linguistics](https://ling.cuhk.edu.hk/).
 
 My academic training spans both traditional literary studies and contemporary linguistic theory. Through coursework and independent research, I have developed a strong interest in Chinese dialect grammar, syntax, and formal semantics. I am particularly interested in how fine-grained grammatical patterns - especially those found in regional varieties - contribute to broader theoretical questions in linguistic analysis.
 
