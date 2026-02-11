@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Junyan's Academic Webpage"
+title: "Welcome to Junyan's academic webpage"
 author_profile: true
 redirect_from: 
   - /about/
