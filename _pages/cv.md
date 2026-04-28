@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.A. in Chinese Language and Literature (Minor in Linguistics), The Chinese University of Hong Kong, 2023–2027 (expected)
+  * Cumulative GPA: 3.720 / 4.0
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Chinese dialect grammar, with a focus on Shaoxing (Yue) dialect
+* Syntax, semantics, and pragmatics of aspect and tense markers
+* Formal approaches to Chinese linguistic structure
+* Classical Chinese literature and philology; comparative literary theory
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Mandarin Chinese (Native), Shanghainese / Shaoxing dialect (Heritage), English (Proficient)
+* Linguistic analysis: syntactic analysis, semantic analysis, pragmatic analysis, dialectal fieldwork
+* Literary research: classical Chinese literary studies, comparative literature, text-critical methods
+* Tools: LaTeX, Markdown, IPA transcription
 
-Publications
+Conference Presentations
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

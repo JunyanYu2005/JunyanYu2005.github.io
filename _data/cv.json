@@ -1,32 +1,42 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Junyan Yu (俞俊言)",
+    "email": "junyanyu@link.cuhk.edu.hk",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://junyanyu2005.github.io",
+    "summary": "Undergraduate student at The Chinese University of Hong Kong, majoring in Chinese Language and Literature with a minor in Linguistics. Research interests in Chinese dialect grammar, syntax, semantics, and classical Chinese literature.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Hong Kong",
+      "countryCode": "HK",
+      "region": "Hong Kong SAR"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "network": "ORCID",
+        "username": "0009-0000-0959-8828",
+        "url": "https://orcid.org/0009-0000-0959-8828"
       },
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "network": "ResearchGate",
+        "username": "Junyan-Yu-4",
+        "url": "https://www.researchgate.net/profile/Junyan-Yu-4"
+      },
+      {
+        "network": "Academia.edu",
+        "username": "JunyanYu",
+        "url": "https://cuhk.academia.edu/JunyanYu"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Junyan-Yu-2005",
+        "url": "https://github.com/Junyan-Yu-2005"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "junyan-yu-8b300a307",
+        "url": "https://www.linkedin.com/in/junyan-yu-8b300a307"
       }
     ]
   },
@@ -34,101 +44,94 @@
   "education": [
     {
       "institution": "The Chinese University of Hong Kong",
-      "area": "B.A. in Chinese Language and Literature, minor in Linguistics",
+      "area": "B.A. in Chinese Language and Literature, Minor in Linguistics",
       "studyType": "Full-time",
       "startDate": "Sept 2023",
-      "endDate": "Jun 2027",
+      "endDate": "Jun 2027 (expected)",
       "gpa": 3.720,
       "courses": []
-    },
+    }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": ["Mandarin Chinese (Native)", "Shanghainese / Shaoxing dialect (Heritage)", "English (Proficient)"]
+    },
+    {
+      "name": "Linguistic Analysis",
+      "level": "",
+      "keywords": ["Syntactic analysis", "Semantic analysis", "Pragmatic analysis", "Dialectal fieldwork", "IPA transcription"]
+    },
+    {
+      "name": "Literary Research",
+      "level": "",
+      "keywords": ["Classical Chinese literature", "Comparative literature", "Text-critical methods", "Philology"]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": ["LaTeX", "Markdown"]
+    }
+  ],
+  "languages": [
+    {"language": "Mandarin Chinese", "fluency": "Native"},
+    {"language": "Shaoxing dialect", "fluency": "Heritage speaker"},
+    {"language": "English", "fluency": "Proficient"}
+  ],
+  "interests": [
+    {"name": "Chinese dialect grammar"},
+    {"name": "Syntax, semantics, and pragmatics of aspect marking"},
+    {"name": "Classical Chinese literature and philology"},
+    {"name": "Comparative literary theory"}
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "解圍的嘗試：魯迅短篇小說《理水》與布萊希特「史詩戲劇」理論的對話",
+      "publisher": "The 9th Undergraduate Academic Conference on Humanities, Hong Kong",
+      "releaseDate": "2025-06-13",
+      "website": "https://www.eduhk.hk/HKUAC/view.php?secid=51482&u=u",
+      "summary": "Attempt at Breaking the Siege: Lu Xun's Fiction Taming the Floods in dialogue with Brecht's Theory of Epic Theatre."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "現代紹興方言進行體標記「來+埭/動/亨」的句法、語義、語用特點",
+      "publisher": "The 12th Inter-Regional Forum on Dialectal Grammar, Shanghai",
+      "releaseDate": "2026-04-18",
+      "website": "https://www.cuhk.edu.hk/ics/clrc/irf/2026/speakers.html",
+      "summary": "Syntax, Semantics, and Pragmatics of the Progressive Markers leda, ledoŋ, lehaŋ in Modern Shaoxing Dialect."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Syntax, Semantics, and Pragmatics of the Progressive Markers leda, ledoŋ, lehaŋ in Modern Shaoxing Dialect",
+      "publisher": "The 9th International Forum on Linguistics and Chinese Education, Hong Kong",
+      "releaseDate": "2026-06-26",
+      "website": "https://lt.cityu.edu.hk/ifolce-9/",
+      "summary": "Syntax, Semantics, and Pragmatics of the Progressive Markers leda, ledoŋ, lehaŋ in Modern Shaoxing Dialect."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "解圍的嘗試：魯迅短篇小說《理水》與布萊希特「史詩戲劇」理論的對話",
+      "event": "The 9th Undergraduate Academic Conference on Humanities",
+      "date": "2025-06-13",
+      "location": "Hong Kong",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "現代紹興方言進行體標記「來+埭/動/亨」的句法、語義、語用特點",
+      "event": "The 12th Inter-Regional Forum on Dialectal Grammar",
+      "date": "2026-04-18",
+      "location": "Shanghai, China",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Syntax, Semantics, and Pragmatics of the Progressive Markers leda, ledoŋ, lehaŋ in Modern Shaoxing Dialect",
+      "event": "The 9th International Forum on Linguistics and Chinese Education",
+      "date": "2026-06-26",
+      "location": "Hong Kong",
       "description": ""
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "teaching": [],
+  "portfolio": []
 }
