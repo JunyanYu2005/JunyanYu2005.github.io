@@ -7,5 +7,5 @@ excerpt: ''
 date: 2025-06-13
 venue: 'The 9th Undergraduate Academic Conference on Humanities, Hong Kong'
 paperurl: '[https://www.eduhk.hk/include_n/getrichfile.php?key=aed81be57da518a86c56d70782061487&secid=51482&filename=HKUAC/UAC2025/9th_UAC_Conference_Brochure_(20250612_3).pdf](https://www.eduhk.hk/include_n/getrichfile.php?key=aed81be57da518a86c56d70782061487&secid=51482&filename=HKUAC/UAC2025/9th_UAC_Conference_Brochure_(20250612_3).pdf)'
-citation: 'Yu, J. (2025, June 13). Attempt at Breaking the Siege: Lu Xun's Fiction Taming the Floods in dialogue with Brecht's Theory of Epic Theatre. The 9th Undergraduate Academic Conference on Humanities, Hong Kong. https://www.eduhk.hk/HKUAC/view.php?secid=51482&u=u'
+citation: 'Yu, J. (2025, June 13). Attempt at Breaking the Siege: Lu Xun''s Fiction Taming the Floods in dialogue with Brecht''s Theory of Epic Theatre. The 9th Undergraduate Academic Conference on Humanities, Hong Kong. https://www.eduhk.hk/HKUAC/view.php?secid=51482&u=u'
 ---
