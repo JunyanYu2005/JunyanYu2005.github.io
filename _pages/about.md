@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+I am Junyan Yu, an undergraduate student at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/english/index.html)), majoring in [Chinese Language and Literature](https://www.chi.cuhk.edu.hk/en/) and minoring in [Linguistics](https://ling.cuhk.edu.hk/).
 
-Hello. I am Junyan Yu, currently a junior undergraduate student at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/english/index.html)). I major in [Chinese Language and Literature](https://www.chi.cuhk.edu.hk/en/) and minor in [Linguistics](https://ling.cuhk.edu.hk/).
+My research interests lie in Chinese dialect grammar, particularly the syntax, semantics, and pragmatics of aspect. My current work focuses on progressive and durative expressions in Shaoxing Wu, examining how the choice of grammatical forms depends on meaning, context, and different sentence types. More broadly, I am interested in how evidence from Chinese varieties can inform our understanding of language structure.
 
-My academic training spans both traditional literary studies and contemporary linguistic theory. Through coursework and independent research, I have developed a strong interest in Chinese dialect grammar, syntax, and semantics. I am particularly interested in how fine-grained grammatical patterns - especially those found in regional varieties - contribute to broader theoretical questions in linguistic analysis.
+Alongside linguistics, I am also interested in Chinese literature and philology. My training in these areas has shaped my attention to textual evidence, historical context, and close analysis. I hope to bring this perspective to further research in Chinese linguistics.
 
-With a background that integrates philological sensitivity and formal methodology, I aim to approach language as both a cultural-historical system and a structured cognitive system. My long-term goal is to pursue advanced research in Chinese linguistics, focusing on grammatical structure and its theoretical implications.
-
-This website documents my academic work, research projects, and ongoing intellectual explorations. Sincerely appreciate your fleeting pause here in my realm of thoughts.
+This website provides an overview of my academic background and conference presentations. I welcome opportunities to exchange ideas with others working on Chinese languages and literature.
 
 無冥冥之志者無昭昭之明，無惛惛之事者無赫赫之功。——《荀子》
