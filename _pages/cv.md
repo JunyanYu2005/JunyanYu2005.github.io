@@ -19,27 +19,14 @@ redirect_from:
   <dl class="academic-facts">
     <dt>Cumulative GPA</dt><dd>3.731 / 4.000</dd>
     <dt>Major GPA</dt><dd>3.758 / 4.000</dd>
-    <dt>Linguistics Coursework (A / A-)</dt>
-    <dd>
-      <ul>
-        <li><strong>LING1000</strong> Invitation to Linguistics (A)</li>
-        <li><strong>LING2006</strong> Semantics (A)</li>
-        <li><strong>LING3101</strong> Morphology (A)</li>
-        <li><strong>CHLL1110</strong> Introduction to Chinese Linguistics (A)</li>
-        <li><strong>CHLL2121</strong> Introduction to Chinese Philology (A-)</li>
-        <li><strong>CHLL2131</strong> Introduction to Chinese Phonology (A-)</li>
-        <li><strong>CHLL3143</strong> Chinese Morphology (A)</li>
-        <li><strong>CHLL3144</strong> The Study of Chinese Semantics (A)</li>
-        <li><strong>CHLL3162</strong> Study of Cantonese (A)</li>
-      </ul>
-    </dd>
+    <dt>Relative Courses</dt><dd>LING1000 Invitation to Linguistics (A); LING2006 Semantics (A); LING3101 Morphology (A); CHLL1110 Introduction to Chinese Linguistics (A); CHLL2121 Introduction to Chinese Philology (A-); CHLL2131 Introduction to Chinese Phonology (A-); CHLL3143 Chinese Morphology (A); CHLL3144 The Study of Chinese Semantics (A); CHLL3162 Study of Cantonese (A).</dd>
   </dl>
 
   <p class="period">September 2017–June 2023</p>
   <h3>Shaoxing No. 1 High School</h3>
-  <p>Zhejiang, China</p>
+  <p>High School Diploma.</p>
   <dl class="academic-facts">
-    <dt>Gaokao Score</dt><dd>673 / 750 (National College Entrance Examination; top 1% in Zhejiang Province)</dd>
+    <dt>Gaokao Score</dt><dd>673 / 750 (National College Entrance Examination; top 1% in Zhejiang Province).</dd>
   </dl>
 </section>
 
@@ -48,9 +35,9 @@ redirect_from:
   <dl class="academic-facts">
     <dt>Mandarin</dt><dd>Native; Putonghua Proficiency Test, Grade 1-B (95.7/100).</dd>
     <dt>English</dt><dd>IELTS overall 7.5 (Listening, Reading, Speaking 7.5; Writing 7.0).</dd>
-    <dt>Cantonese</dt><dd>Professional proficiency (Cantonese Read-aloud Test, Grade B).</dd>
+    <dt>Cantonese</dt><dd>Professional proficiency.</dd>
     <dt>Wu and Jin</dt><dd>Native bilingual proficiency (Shaoxing Wu and Yulin Jin).</dd>
-    <dt>Hokkien and Hakka</dt><dd>Research proficiency.</dd>
+    <dt>Hokkien and Hakka</dt><dd>Research level.</dd>
   </dl>
 </section>
 
