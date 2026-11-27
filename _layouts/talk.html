@@ -30,7 +30,9 @@ layout: default
           {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
-        {% if page.modified %}
+        {% if page.citation %}
+          <p>{{ page.citation | escape }}</p>
+        {% elsif page.modified %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
@@ -42,6 +44,7 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {{ content }}
+        {% if page.conference_url %}<p><a href="{{ page.conference_url | escape }}">Conference website</a></p>{% endif %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 

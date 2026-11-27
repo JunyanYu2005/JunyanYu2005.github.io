@@ -1,0 +1,8 @@
+{% assign presentations = site.talks | sort: 'date' | reverse %}
+{% for talk in presentations %}
+  <article class="archive__item">
+    <h3 class="archive__item-title"><a href="{{ talk.url | relative_url }}">{{ talk.title | escape }}</a></h3>
+    <p>{{ talk.citation | escape }}</p>
+    <p><a href="{{ talk.conference_url | escape }}">Conference website</a></p>
+  </article>
+{% endfor %}
