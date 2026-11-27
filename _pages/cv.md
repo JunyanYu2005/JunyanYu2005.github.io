@@ -19,7 +19,12 @@ redirect_from:
   <dl class="academic-facts">
     <dt>Cumulative GPA</dt><dd>3.731 / 4.000</dd>
     <dt>Major GPA</dt><dd>3.758 / 4.000</dd>
-    <dt>Relative Courses</dt><dd>LING1000 Invitation to Linguistics (A); LING2006 Semantics (A); LING3101 Morphology (A); CHLL1110 Introduction to Chinese Linguistics (A); CHLL2121 Introduction to Chinese Philology (A-); CHLL2131 Introduction to Chinese Phonology (A-); CHLL3143 Chinese Morphology (A); CHLL3144 The Study of Chinese Semantics (A); CHLL3162 Study of Cantonese (A).</dd>
+    <dt>Relevant Courses</dt>
+    <dd>
+      LING1000 Invitation to Linguistics (A); LING2006 Semantics (A); LING3101 Morphology (A)<br>
+      CHLL1110 Introduction to Chinese Linguistics (A); CHLL2121 Introduction to Chinese Philology (A-); CHLL2131 Introduction to Chinese Phonology (A-)<br>
+      CHLL3143 Chinese Morphology (A); CHLL3144 The Study of Chinese Semantics (A); CHLL3162 Study of Cantonese (A).
+    </dd>
   </dl>
 
   <p class="period">September 2017–June 2023</p>
