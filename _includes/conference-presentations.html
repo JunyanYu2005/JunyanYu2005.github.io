@@ -1,8 +1,10 @@
 {% assign presentations = site.talks | sort: 'date' | reverse %}
-{% for talk in presentations %}
-  <article class="archive__item">
-    <h3 class="archive__item-title"><a href="{{ talk.url | relative_url }}">{{ talk.title | escape }}</a></h3>
-    <p>{{ talk.citation | escape }}</p>
-    <p><a href="{{ talk.conference_url | escape }}">Conference website</a></p>
-  </article>
-{% endfor %}
+<ul class="record-list">
+  {% for talk in presentations %}
+    <li>
+      <span class="period">{% if talk.type == 'Accepted for presentation' %}{{ talk.date | date: '%Y' }} · Accepted for presentation{% else %}{{ talk.date | date: '%-d %B %Y' }}{% endif %}</span>
+      <h3><a href="{{ talk.url | relative_url }}">{{ talk.title | escape }}</a></h3>
+      <p class="institution">{{ talk.venue | escape }}, {{ talk.location | escape }}</p>
+    </li>
+  {% endfor %}
+</ul>

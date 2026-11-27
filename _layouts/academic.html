@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<div id="main" role="main">
+  {% include sidebar.html %}
+  <article class="archive academic">
+    <h1 class="academic-title">{{ page.title | escape }}</h1>
+    {{ content }}
+  </article>
+</div>

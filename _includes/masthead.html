@@ -3,7 +3,7 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button><span class="navicon"></span></button>
+        <button type="button" aria-label="More navigation links"><span class="navicon"></span></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
             <a href="{{ base_path }}/">{{ site.title }}</a>
@@ -14,8 +14,14 @@
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item {% if page.url contains link.url and link.url != '/' %}selected{% endif %}">
-              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+            {% assign current = nil %}
+            {% if page.url == link.url %}
+              {% assign current = 'page' %}
+            {% elsif page.collection == 'talks' and link.url == '/research/' %}
+              {% assign current = 'location' %}
+            {% endif %}
+            <li class="masthead__menu-item{% if current %} selected{% endif %}">
+              <a href="{{ domain }}{{ link.url }}"{% if current %} aria-current="{{ current }}"{% endif %}>{{ link.title }}</a>
             </li>
           {% endfor %}
           <li id="theme-toggle" class="masthead__menu-item persist tail">
