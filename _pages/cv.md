@@ -24,10 +24,10 @@ redirect_from:
   <h2 id="languages">Languages</h2>
   <dl class="academic-facts">
     <dt>Mandarin</dt><dd>Native. Putonghua Proficiency Test, Grade 1-B (95.7/100).</dd>
-    <dt>English</dt><dd>IELTS overall 7.5.</dd>
-    <dt>Cantonese</dt><dd>Spoken proficiency.</dd>
-    <dt>Wu and Jin</dt><dd>Bilingual proficiency. My variety of Wu is the Shaoxing dialect.</dd>
-    <dt>Hokkien and Hakka</dt><dd>Research use.</dd>
+    <dt>English</dt><dd>IELTS overall 7.5 (listening, speaking, reading 7.5; writing 7.0).</dd>
+    <dt>Cantonese</dt><dd>Professional proficiency.</dd>
+    <dt>Wu and Jin</dt><dd>Bilingual proficiency. My variety of Wu is Shaoxing dialect and my variety of Jin is Yulin Dialect.</dd>
+    <dt>Hokkien and Hakka</dt><dd>Research level.</dd>
   </dl>
 </section>
 
